@@ -8,10 +8,10 @@ public:
             if((min(height[l], height[r])) * (r - l) > cur) {
                 cur = min(height[l], height[r]) * (r - l);
             }
-            if(height[l] >= height[r]){
+            if(height[l] > height[r]){
                 r--;
             }
-            else if(height[l] < height[r]){
+            else if(height[l] <= height[r]){
                 l++;
             }
         }
