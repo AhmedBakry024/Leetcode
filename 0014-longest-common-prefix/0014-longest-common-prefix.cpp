@@ -1,9 +1,6 @@
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
-        // if(strs.size() == 1){
-        //     return strs[0];
-        // }
         int minNum = 201;
         for(int i = 0;i< strs.size(); i++){
             if (strs[i].length() < minNum) {minNum = strs[i].length();}
