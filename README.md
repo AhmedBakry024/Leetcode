@@ -37,4 +37,12 @@ Here I post all the Leetcode questions that I solved so far
 | [0782-jewels-and-stones](https://github.com/AhmedBakry024/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/AhmedBakry024/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [3412-permutation-difference-between-two-strings](https://github.com/AhmedBakry024/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/AhmedBakry024/Leetcode/tree/master/2645-pass-the-pillow) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/AhmedBakry024/Leetcode/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
