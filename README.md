@@ -7,6 +7,7 @@ Here I post all the Leetcode questions that I solved so far
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AhmedBakry024/Leetcode/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/AhmedBakry024/Leetcode/tree/master/0135-candy) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/AhmedBakry024/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 ## Two Pointers
 |  |
@@ -16,6 +17,7 @@ Here I post all the Leetcode questions that I solved so far
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AhmedBakry024/Leetcode/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/AhmedBakry024/Leetcode/tree/master/0135-candy) |
 ## String
 |  |
 | ------- |
