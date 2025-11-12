@@ -23,6 +23,7 @@ Here I post all the Leetcode questions that I solved so far
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AhmedBakry024/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AhmedBakry024/Leetcode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/AhmedBakry024/Leetcode/tree/master/0058-length-of-last-word) |
 | [0782-jewels-and-stones](https://github.com/AhmedBakry024/Leetcode/tree/master/0782-jewels-and-stones) |
 | [3412-permutation-difference-between-two-strings](https://github.com/AhmedBakry024/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Trie
