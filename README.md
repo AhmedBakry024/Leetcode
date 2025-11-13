@@ -56,4 +56,12 @@ Here I post all the Leetcode questions that I solved so far
 |  |
 | ------- |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/AhmedBakry024/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AhmedBakry024/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AhmedBakry024/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
