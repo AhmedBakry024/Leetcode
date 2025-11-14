@@ -9,13 +9,14 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        ListNode *cur = head;
+        unordered_map<ListNode*, bool> visited;
+        ListNode* cur = head;
+
         while(cur){
-            if(cur->val > 200000) return true;
-            cur->val += 500000;
+            if(visited[cur]) return true;
+            visited[cur] = true;
             cur = cur->next;
         }
         return false;
-
     }
 };
