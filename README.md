@@ -67,6 +67,7 @@ Here I post all the Leetcode questions that I solved so far
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AhmedBakry024/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/AhmedBakry024/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/AhmedBakry024/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/AhmedBakry024/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/AhmedBakry024/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
