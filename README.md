@@ -25,6 +25,7 @@ Here I post all the Leetcode questions that I solved so far
 | ------- |
 | [0011-container-with-most-water](https://github.com/AhmedBakry024/Leetcode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/AhmedBakry024/Leetcode/tree/master/0135-candy) |
+| [2154-minimum-moves-to-convert-string](https://github.com/AhmedBakry024/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0058-length-of-last-word](https://github.com/AhmedBakry024/Leetcode/tree/master/0058-length-of-last-word) |
 | [0782-jewels-and-stones](https://github.com/AhmedBakry024/Leetcode/tree/master/0782-jewels-and-stones) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AhmedBakry024/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2154-minimum-moves-to-convert-string](https://github.com/AhmedBakry024/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/AhmedBakry024/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Trie
 |  |
