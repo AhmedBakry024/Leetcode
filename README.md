@@ -55,6 +55,7 @@ Here I post all the Leetcode questions that I solved so far
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/AhmedBakry024/Leetcode/tree/master/0009-palindrome-number) |
 | [2645-pass-the-pillow](https://github.com/AhmedBakry024/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
