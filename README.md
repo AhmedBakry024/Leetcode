@@ -11,6 +11,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0135-candy](https://github.com/AhmedBakry024/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/AhmedBakry024/Leetcode/tree/master/0136-single-number) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/AhmedBakry024/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/AhmedBakry024/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0020-valid-parentheses](https://github.com/AhmedBakry024/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/AhmedBakry024/Leetcode/tree/master/0058-length-of-last-word) |
 | [0782-jewels-and-stones](https://github.com/AhmedBakry024/Leetcode/tree/master/0782-jewels-and-stones) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/AhmedBakry024/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3412-permutation-difference-between-two-strings](https://github.com/AhmedBakry024/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Trie
 |  |
@@ -55,6 +57,7 @@ Here I post all the Leetcode questions that I solved so far
 ## Simulation
 |  |
 | ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/AhmedBakry024/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2645-pass-the-pillow](https://github.com/AhmedBakry024/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Depth-First Search
 |  |
