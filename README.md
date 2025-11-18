@@ -7,6 +7,7 @@ Here I post all the Leetcode questions that I solved so far
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AhmedBakry024/Leetcode/tree/master/0011-container-with-most-water) |
+| [0118-pascals-triangle](https://github.com/AhmedBakry024/Leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/AhmedBakry024/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/AhmedBakry024/Leetcode/tree/master/0136-single-number) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/AhmedBakry024/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -81,4 +82,8 @@ Here I post all the Leetcode questions that I solved so far
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AhmedBakry024/Leetcode/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/AhmedBakry024/Leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
