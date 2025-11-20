@@ -12,6 +12,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0118-pascals-triangle](https://github.com/AhmedBakry024/Leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/AhmedBakry024/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/AhmedBakry024/Leetcode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/AhmedBakry024/Leetcode/tree/master/0217-contains-duplicate) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/AhmedBakry024/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AhmedBakry024/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
@@ -52,6 +53,7 @@ Here I post all the Leetcode questions that I solved so far
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AhmedBakry024/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/AhmedBakry024/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AhmedBakry024/Leetcode/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/AhmedBakry024/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/AhmedBakry024/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -106,5 +108,6 @@ Here I post all the Leetcode questions that I solved so far
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/AhmedBakry024/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AhmedBakry024/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
