@@ -13,6 +13,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0135-candy](https://github.com/AhmedBakry024/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/AhmedBakry024/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/AhmedBakry024/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/AhmedBakry024/Leetcode/tree/master/0268-missing-number) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/AhmedBakry024/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AhmedBakry024/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
@@ -55,6 +56,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0141-linked-list-cycle](https://github.com/AhmedBakry024/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/AhmedBakry024/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AhmedBakry024/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/AhmedBakry024/Leetcode/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/AhmedBakry024/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/AhmedBakry024/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [3412-permutation-difference-between-two-strings](https://github.com/AhmedBakry024/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -63,6 +65,7 @@ Here I post all the Leetcode questions that I solved so far
 | ------- |
 | [0002-add-two-numbers](https://github.com/AhmedBakry024/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/AhmedBakry024/Leetcode/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/AhmedBakry024/Leetcode/tree/master/0268-missing-number) |
 | [2645-pass-the-pillow](https://github.com/AhmedBakry024/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
@@ -97,6 +100,7 @@ Here I post all the Leetcode questions that I solved so far
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AhmedBakry024/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/AhmedBakry024/Leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,9 +109,11 @@ Here I post all the Leetcode questions that I solved so far
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AhmedBakry024/Leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/AhmedBakry024/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AhmedBakry024/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AhmedBakry024/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/AhmedBakry024/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
