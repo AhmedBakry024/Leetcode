@@ -55,6 +55,7 @@ Here I post all the Leetcode questions that I solved so far
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AhmedBakry024/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/AhmedBakry024/Leetcode/tree/master/0009-palindrome-number) |
 | [2645-pass-the-pillow](https://github.com/AhmedBakry024/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Simulation
@@ -73,6 +74,7 @@ Here I post all the Leetcode questions that I solved so far
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AhmedBakry024/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AhmedBakry024/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AhmedBakry024/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/AhmedBakry024/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -82,6 +84,7 @@ Here I post all the Leetcode questions that I solved so far
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AhmedBakry024/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AhmedBakry024/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/AhmedBakry024/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
