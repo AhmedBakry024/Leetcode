@@ -16,6 +16,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0217-contains-duplicate](https://github.com/AhmedBakry024/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AhmedBakry024/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AhmedBakry024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0561-array-partition](https://github.com/AhmedBakry024/Leetcode/tree/master/0561-array-partition) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/AhmedBakry024/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AhmedBakry024/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
@@ -33,6 +34,7 @@ Here I post all the Leetcode questions that I solved so far
 | ------- |
 | [0011-container-with-most-water](https://github.com/AhmedBakry024/Leetcode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/AhmedBakry024/Leetcode/tree/master/0135-candy) |
+| [0561-array-partition](https://github.com/AhmedBakry024/Leetcode/tree/master/0561-array-partition) |
 | [2154-minimum-moves-to-convert-string](https://github.com/AhmedBakry024/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 ## String
 |  |
@@ -128,4 +130,9 @@ Here I post all the Leetcode questions that I solved so far
 | [0268-missing-number](https://github.com/AhmedBakry024/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AhmedBakry024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AhmedBakry024/Leetcode/tree/master/0389-find-the-difference) |
+| [0561-array-partition](https://github.com/AhmedBakry024/Leetcode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/AhmedBakry024/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
