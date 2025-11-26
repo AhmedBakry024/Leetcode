@@ -9,6 +9,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0011-container-with-most-water](https://github.com/AhmedBakry024/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/AhmedBakry024/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/AhmedBakry024/Leetcode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/AhmedBakry024/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/AhmedBakry024/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/AhmedBakry024/Leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/AhmedBakry024/Leetcode/tree/master/0135-candy) |
@@ -42,6 +43,7 @@ Here I post all the Leetcode questions that I solved so far
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AhmedBakry024/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AhmedBakry024/Leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/AhmedBakry024/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AhmedBakry024/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/AhmedBakry024/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/AhmedBakry024/Leetcode/tree/master/0389-find-the-difference) |
@@ -61,6 +63,7 @@ Here I post all the Leetcode questions that I solved so far
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AhmedBakry024/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/AhmedBakry024/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/AhmedBakry024/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AhmedBakry024/Leetcode/tree/master/0242-valid-anagram) |
@@ -125,6 +128,7 @@ Here I post all the Leetcode questions that I solved so far
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AhmedBakry024/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/AhmedBakry024/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AhmedBakry024/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AhmedBakry024/Leetcode/tree/master/0217-contains-duplicate) |
