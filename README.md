@@ -20,6 +20,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0349-intersection-of-two-arrays](https://github.com/AhmedBakry024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/AhmedBakry024/Leetcode/tree/master/0561-array-partition) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/AhmedBakry024/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AhmedBakry024/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AhmedBakry024/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
@@ -72,6 +73,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0389-find-the-difference](https://github.com/AhmedBakry024/Leetcode/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/AhmedBakry024/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/AhmedBakry024/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AhmedBakry024/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3412-permutation-difference-between-two-strings](https://github.com/AhmedBakry024/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Math
 |  |
@@ -137,10 +139,12 @@ Here I post all the Leetcode questions that I solved so far
 | [0349-intersection-of-two-arrays](https://github.com/AhmedBakry024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AhmedBakry024/Leetcode/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/AhmedBakry024/Leetcode/tree/master/0561-array-partition) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AhmedBakry024/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/AhmedBakry024/Leetcode/tree/master/0561-array-partition) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AhmedBakry024/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
 | ------- |
