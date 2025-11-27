@@ -19,6 +19,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0268-missing-number](https://github.com/AhmedBakry024/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AhmedBakry024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/AhmedBakry024/Leetcode/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/AhmedBakry024/Leetcode/tree/master/0621-task-scheduler) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/AhmedBakry024/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AhmedBakry024/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AhmedBakry024/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -38,6 +39,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0011-container-with-most-water](https://github.com/AhmedBakry024/Leetcode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/AhmedBakry024/Leetcode/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/AhmedBakry024/Leetcode/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/AhmedBakry024/Leetcode/tree/master/0621-task-scheduler) |
 | [2154-minimum-moves-to-convert-string](https://github.com/AhmedBakry024/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 ## String
 |  |
@@ -71,6 +73,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0268-missing-number](https://github.com/AhmedBakry024/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AhmedBakry024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AhmedBakry024/Leetcode/tree/master/0389-find-the-difference) |
+| [0621-task-scheduler](https://github.com/AhmedBakry024/Leetcode/tree/master/0621-task-scheduler) |
 | [0782-jewels-and-stones](https://github.com/AhmedBakry024/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/AhmedBakry024/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AhmedBakry024/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -139,11 +142,13 @@ Here I post all the Leetcode questions that I solved so far
 | [0349-intersection-of-two-arrays](https://github.com/AhmedBakry024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AhmedBakry024/Leetcode/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/AhmedBakry024/Leetcode/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/AhmedBakry024/Leetcode/tree/master/0621-task-scheduler) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AhmedBakry024/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/AhmedBakry024/Leetcode/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/AhmedBakry024/Leetcode/tree/master/0621-task-scheduler) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AhmedBakry024/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
@@ -153,6 +158,7 @@ Here I post all the Leetcode questions that I solved so far
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AhmedBakry024/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/AhmedBakry024/Leetcode/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
