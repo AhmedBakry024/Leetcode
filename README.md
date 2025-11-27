@@ -51,6 +51,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0242-valid-anagram](https://github.com/AhmedBakry024/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/AhmedBakry024/Leetcode/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/AhmedBakry024/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0807-custom-sort-string](https://github.com/AhmedBakry024/Leetcode/tree/master/0807-custom-sort-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AhmedBakry024/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2154-minimum-moves-to-convert-string](https://github.com/AhmedBakry024/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/AhmedBakry024/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -75,6 +76,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0389-find-the-difference](https://github.com/AhmedBakry024/Leetcode/tree/master/0389-find-the-difference) |
 | [0621-task-scheduler](https://github.com/AhmedBakry024/Leetcode/tree/master/0621-task-scheduler) |
 | [0782-jewels-and-stones](https://github.com/AhmedBakry024/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0807-custom-sort-string](https://github.com/AhmedBakry024/Leetcode/tree/master/0807-custom-sort-string) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/AhmedBakry024/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AhmedBakry024/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3412-permutation-difference-between-two-strings](https://github.com/AhmedBakry024/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -143,6 +145,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0389-find-the-difference](https://github.com/AhmedBakry024/Leetcode/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/AhmedBakry024/Leetcode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/AhmedBakry024/Leetcode/tree/master/0621-task-scheduler) |
+| [0807-custom-sort-string](https://github.com/AhmedBakry024/Leetcode/tree/master/0807-custom-sort-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AhmedBakry024/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
