@@ -97,6 +97,7 @@ Here I post all the Leetcode questions that I solved so far
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0226-invert-binary-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/AhmedBakry024/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Graph
 |  |
@@ -168,4 +169,16 @@ Here I post all the Leetcode questions that I solved so far
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AhmedBakry024/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
