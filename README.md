@@ -101,6 +101,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0104-maximum-depth-of-binary-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/AhmedBakry024/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Graph
@@ -180,6 +181,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0104-maximum-depth-of-binary-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -194,5 +196,10 @@ Here I post all the Leetcode questions that I solved so far
 | [0104-maximum-depth-of-binary-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
