@@ -23,6 +23,7 @@ Here I post all the Leetcode questions that I solved so far
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/AhmedBakry024/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AhmedBakry024/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AhmedBakry024/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/AhmedBakry024/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AhmedBakry024/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
@@ -88,6 +89,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0009-palindrome-number](https://github.com/AhmedBakry024/Leetcode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/AhmedBakry024/Leetcode/tree/master/0268-missing-number) |
 | [2645-pass-the-pillow](https://github.com/AhmedBakry024/Leetcode/tree/master/2645-pass-the-pillow) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/AhmedBakry024/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AhmedBakry024/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
 |  |
@@ -220,4 +222,8 @@ Here I post all the Leetcode questions that I solved so far
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AhmedBakry024/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/AhmedBakry024/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
