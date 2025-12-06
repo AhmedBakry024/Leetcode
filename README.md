@@ -65,6 +65,7 @@ Here I post all the Leetcode questions that I solved so far
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AhmedBakry024/Leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/AhmedBakry024/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/AhmedBakry024/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@ Here I post all the Leetcode questions that I solved so far
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AhmedBakry024/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -182,6 +184,7 @@ Here I post all the Leetcode questions that I solved so far
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AhmedBakry024/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AhmedBakry024/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -204,6 +207,7 @@ Here I post all the Leetcode questions that I solved so far
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AhmedBakry024/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AhmedBakry024/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
