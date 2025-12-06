@@ -110,6 +110,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AhmedBakry024/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/AhmedBakry024/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/AhmedBakry024/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Graph
 |  |
@@ -196,6 +197,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/AhmedBakry024/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -219,6 +221,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/AhmedBakry024/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -226,6 +229,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AhmedBakry024/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AhmedBakry024/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/AhmedBakry024/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Prefix Sum
 |  |
 | ------- |
