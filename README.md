@@ -118,6 +118,7 @@ Here I post all the Leetcode questions that I solved so far
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/AhmedBakry024/Leetcode/tree/master/1039-find-the-town-judge) |
+| [1916-find-center-of-star-graph](https://github.com/AhmedBakry024/Leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/AhmedBakry024/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Linked List
 |  |
