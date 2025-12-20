@@ -93,6 +93,7 @@ Here I post all the Leetcode questions that I solved so far
 | ------- |
 | [0002-add-two-numbers](https://github.com/AhmedBakry024/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/AhmedBakry024/Leetcode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/AhmedBakry024/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/AhmedBakry024/Leetcode/tree/master/0268-missing-number) |
 | [2645-pass-the-pillow](https://github.com/AhmedBakry024/Leetcode/tree/master/2645-pass-the-pillow) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/AhmedBakry024/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -158,6 +159,7 @@ Here I post all the Leetcode questions that I solved so far
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AhmedBakry024/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AhmedBakry024/Leetcode/tree/master/0118-pascals-triangle) |
 ## Binary Search
 |  |
@@ -270,4 +272,8 @@ Here I post all the Leetcode questions that I solved so far
 | ------- |
 | [0207-course-schedule](https://github.com/AhmedBakry024/Leetcode/tree/master/0207-course-schedule) |
 | [1558-course-schedule-iv](https://github.com/AhmedBakry024/Leetcode/tree/master/1558-course-schedule-iv) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AhmedBakry024/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
