@@ -49,6 +49,7 @@ Here I post all the Leetcode questions that I solved so far
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AhmedBakry024/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/AhmedBakry024/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AhmedBakry024/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AhmedBakry024/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -74,6 +75,7 @@ Here I post all the Leetcode questions that I solved so far
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AhmedBakry024/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/AhmedBakry024/Leetcode/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/AhmedBakry024/Leetcode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/AhmedBakry024/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -279,4 +281,8 @@ Here I post all the Leetcode questions that I solved so far
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AhmedBakry024/Leetcode/tree/master/0070-climbing-stairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AhmedBakry024/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
