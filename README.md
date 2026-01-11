@@ -33,6 +33,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AhmedBakry024/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/AhmedBakry024/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/AhmedBakry024/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AhmedBakry024/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/AhmedBakry024/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/AhmedBakry024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/AhmedBakry024/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -76,6 +77,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0049-group-anagrams](https://github.com/AhmedBakry024/Leetcode/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/AhmedBakry024/Leetcode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/AhmedBakry024/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AhmedBakry024/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/AhmedBakry024/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AhmedBakry024/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AhmedBakry024/Leetcode/tree/master/0268-missing-number) |
@@ -141,6 +143,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0021-merge-two-sorted-lists](https://github.com/AhmedBakry024/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AhmedBakry024/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/AhmedBakry024/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AhmedBakry024/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/AhmedBakry024/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/AhmedBakry024/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AhmedBakry024/Leetcode/tree/master/0908-middle-of-the-linked-list) |
