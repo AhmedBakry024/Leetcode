@@ -21,6 +21,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0349-intersection-of-two-arrays](https://github.com/AhmedBakry024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/AhmedBakry024/Leetcode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/AhmedBakry024/Leetcode/tree/master/0621-task-scheduler) |
+| [0940-fruit-into-baskets](https://github.com/AhmedBakry024/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1039-find-the-town-judge](https://github.com/AhmedBakry024/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/AhmedBakry024/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AhmedBakry024/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -89,6 +90,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0621-task-scheduler](https://github.com/AhmedBakry024/Leetcode/tree/master/0621-task-scheduler) |
 | [0782-jewels-and-stones](https://github.com/AhmedBakry024/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/AhmedBakry024/Leetcode/tree/master/0807-custom-sort-string) |
+| [0940-fruit-into-baskets](https://github.com/AhmedBakry024/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1039-find-the-town-judge](https://github.com/AhmedBakry024/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/AhmedBakry024/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AhmedBakry024/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -287,6 +289,7 @@ Here I post all the Leetcode questions that I solved so far
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AhmedBakry024/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/AhmedBakry024/Leetcode/tree/master/0940-fruit-into-baskets) |
 ## Database
 |  |
 | ------- |
