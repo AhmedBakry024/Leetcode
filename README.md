@@ -149,6 +149,7 @@ Here I post all the Leetcode questions that I solved so far
 | ------- |
 | [0002-add-two-numbers](https://github.com/AhmedBakry024/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AhmedBakry024/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/AhmedBakry024/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AhmedBakry024/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/AhmedBakry024/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AhmedBakry024/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -160,6 +161,7 @@ Here I post all the Leetcode questions that I solved so far
 | ------- |
 | [0002-add-two-numbers](https://github.com/AhmedBakry024/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AhmedBakry024/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/AhmedBakry024/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/AhmedBakry024/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
