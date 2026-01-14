@@ -19,6 +19,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0217-contains-duplicate](https://github.com/AhmedBakry024/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AhmedBakry024/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AhmedBakry024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0525-contiguous-array](https://github.com/AhmedBakry024/Leetcode/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/AhmedBakry024/Leetcode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/AhmedBakry024/Leetcode/tree/master/0621-task-scheduler) |
 | [0829-subdomain-visit-count](https://github.com/AhmedBakry024/Leetcode/tree/master/0829-subdomain-visit-count) |
@@ -89,6 +90,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0268-missing-number](https://github.com/AhmedBakry024/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AhmedBakry024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AhmedBakry024/Leetcode/tree/master/0389-find-the-difference) |
+| [0525-contiguous-array](https://github.com/AhmedBakry024/Leetcode/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/AhmedBakry024/Leetcode/tree/master/0621-task-scheduler) |
 | [0782-jewels-and-stones](https://github.com/AhmedBakry024/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/AhmedBakry024/Leetcode/tree/master/0807-custom-sort-string) |
@@ -272,6 +274,7 @@ Here I post all the Leetcode questions that I solved so far
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/AhmedBakry024/Leetcode/tree/master/0525-contiguous-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/AhmedBakry024/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Union Find
 |  |
