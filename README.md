@@ -42,6 +42,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0234-palindrome-linked-list](https://github.com/AhmedBakry024/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/AhmedBakry024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/AhmedBakry024/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0567-permutation-in-string](https://github.com/AhmedBakry024/Leetcode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/AhmedBakry024/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
 |  |
@@ -63,6 +64,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0058-length-of-last-word](https://github.com/AhmedBakry024/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/AhmedBakry024/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/AhmedBakry024/Leetcode/tree/master/0389-find-the-difference) |
+| [0567-permutation-in-string](https://github.com/AhmedBakry024/Leetcode/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/AhmedBakry024/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/AhmedBakry024/Leetcode/tree/master/0807-custom-sort-string) |
 | [0829-subdomain-visit-count](https://github.com/AhmedBakry024/Leetcode/tree/master/0829-subdomain-visit-count) |
@@ -93,6 +95,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0349-intersection-of-two-arrays](https://github.com/AhmedBakry024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AhmedBakry024/Leetcode/tree/master/0389-find-the-difference) |
 | [0525-contiguous-array](https://github.com/AhmedBakry024/Leetcode/tree/master/0525-contiguous-array) |
+| [0567-permutation-in-string](https://github.com/AhmedBakry024/Leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/AhmedBakry024/Leetcode/tree/master/0621-task-scheduler) |
 | [0782-jewels-and-stones](https://github.com/AhmedBakry024/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/AhmedBakry024/Leetcode/tree/master/0807-custom-sort-string) |
@@ -303,6 +306,7 @@ Here I post all the Leetcode questions that I solved so far
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AhmedBakry024/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/AhmedBakry024/Leetcode/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/AhmedBakry024/Leetcode/tree/master/0940-fruit-into-baskets) |
 ## Database
 |  |
