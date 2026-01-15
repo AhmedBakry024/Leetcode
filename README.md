@@ -26,6 +26,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0940-fruit-into-baskets](https://github.com/AhmedBakry024/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1039-find-the-town-judge](https://github.com/AhmedBakry024/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/AhmedBakry024/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1464-reduce-array-size-to-the-half](https://github.com/AhmedBakry024/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AhmedBakry024/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AhmedBakry024/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/AhmedBakry024/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -49,6 +50,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0135-candy](https://github.com/AhmedBakry024/Leetcode/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/AhmedBakry024/Leetcode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/AhmedBakry024/Leetcode/tree/master/0621-task-scheduler) |
+| [1464-reduce-array-size-to-the-half](https://github.com/AhmedBakry024/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2154-minimum-moves-to-convert-string](https://github.com/AhmedBakry024/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 ## String
 |  |
@@ -98,6 +100,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0940-fruit-into-baskets](https://github.com/AhmedBakry024/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1039-find-the-town-judge](https://github.com/AhmedBakry024/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/AhmedBakry024/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1464-reduce-array-size-to-the-half](https://github.com/AhmedBakry024/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AhmedBakry024/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3412-permutation-difference-between-two-strings](https://github.com/AhmedBakry024/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Math
@@ -197,6 +200,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0561-array-partition](https://github.com/AhmedBakry024/Leetcode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/AhmedBakry024/Leetcode/tree/master/0621-task-scheduler) |
 | [0807-custom-sort-string](https://github.com/AhmedBakry024/Leetcode/tree/master/0807-custom-sort-string) |
+| [1464-reduce-array-size-to-the-half](https://github.com/AhmedBakry024/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AhmedBakry024/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -214,6 +218,7 @@ Here I post all the Leetcode questions that I solved so far
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AhmedBakry024/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/AhmedBakry024/Leetcode/tree/master/0621-task-scheduler) |
+| [1464-reduce-array-size-to-the-half](https://github.com/AhmedBakry024/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 ## Quickselect
 |  |
 | ------- |
