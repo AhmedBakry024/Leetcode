@@ -1,21 +1,25 @@
 class Solution {
 public:
-    vector<string> subdomainVisits(vector<string>& dom) {
-        unordered_map<string, int> m1;
-        for (string s : dom) {
-            int i = s.find(" ");
-            int n = stoi(s.substr(0, i));
-            string str = s.substr(i + 1);
+    vector<string> subdomainVisits(vector<string>& domains) {
+        unordered_map<string, int> totalCount;
+        vector<string> ans;
+
+        for (string dom : domains) {
+            int space = dom.find(" ");
+            int num = stoi(dom.substr(0, space));
+            string str = dom.substr(space + 1);
+
             for (int i = 0; i < str.size(); i++) {
                 if (str[i] == '.')
-                    m1[str.substr(i + 1)] += n;
+                    totalCount[str.substr(i + 1)] += num;
             }
-            m1[str] += n;
+            totalCount[str] += num;
         }
-        vector<string> ans;
-        for (auto m : m1) {
+
+        for (auto m : totalCount) {
             ans.push_back(to_string(m.second) + " " + m.first);
         }
+
         return ans;
     }
 };
