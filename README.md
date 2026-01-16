@@ -31,6 +31,7 @@ Here I post all the Leetcode questions that I solved so far
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AhmedBakry024/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/AhmedBakry024/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AhmedBakry024/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [4112-maximize-expression-of-three-elements](https://github.com/AhmedBakry024/Leetcode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0621-task-scheduler](https://github.com/AhmedBakry024/Leetcode/tree/master/0621-task-scheduler) |
 | [1464-reduce-array-size-to-the-half](https://github.com/AhmedBakry024/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2154-minimum-moves-to-convert-string](https://github.com/AhmedBakry024/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
+| [4112-maximize-expression-of-three-elements](https://github.com/AhmedBakry024/Leetcode/tree/master/4112-maximize-expression-of-three-elements) |
 ## String
 |  |
 | ------- |
@@ -205,6 +207,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0807-custom-sort-string](https://github.com/AhmedBakry024/Leetcode/tree/master/0807-custom-sort-string) |
 | [1464-reduce-array-size-to-the-half](https://github.com/AhmedBakry024/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AhmedBakry024/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [4112-maximize-expression-of-three-elements](https://github.com/AhmedBakry024/Leetcode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -316,4 +319,8 @@ Here I post all the Leetcode questions that I solved so far
 | [1258-article-views-i](https://github.com/AhmedBakry024/Leetcode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/AhmedBakry024/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AhmedBakry024/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Enumeration
+|  |
+| ------- |
+| [4112-maximize-expression-of-three-elements](https://github.com/AhmedBakry024/Leetcode/tree/master/4112-maximize-expression-of-three-elements) |
 <!---LeetCode Topics End-->
