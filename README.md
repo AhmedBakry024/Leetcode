@@ -15,6 +15,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0118-pascals-triangle](https://github.com/AhmedBakry024/Leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/AhmedBakry024/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/AhmedBakry024/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/AhmedBakry024/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AhmedBakry024/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AhmedBakry024/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AhmedBakry024/Leetcode/tree/master/0268-missing-number) |
@@ -95,6 +96,7 @@ Here I post all the Leetcode questions that I solved so far
 | [0133-clone-graph](https://github.com/AhmedBakry024/Leetcode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/AhmedBakry024/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AhmedBakry024/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/AhmedBakry024/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AhmedBakry024/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AhmedBakry024/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AhmedBakry024/Leetcode/tree/master/0268-missing-number) |
@@ -201,6 +203,7 @@ Here I post all the Leetcode questions that I solved so far
 | ------- |
 | [0049-group-anagrams](https://github.com/AhmedBakry024/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/AhmedBakry024/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/AhmedBakry024/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AhmedBakry024/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AhmedBakry024/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AhmedBakry024/Leetcode/tree/master/0242-valid-anagram) |
@@ -216,6 +219,7 @@ Here I post all the Leetcode questions that I solved so far
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AhmedBakry024/Leetcode/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/AhmedBakry024/Leetcode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/AhmedBakry024/Leetcode/tree/master/0621-task-scheduler) |
 | [0829-subdomain-visit-count](https://github.com/AhmedBakry024/Leetcode/tree/master/0829-subdomain-visit-count) |
@@ -223,6 +227,7 @@ Here I post all the Leetcode questions that I solved so far
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AhmedBakry024/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AhmedBakry024/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |

@@ -1,14 +1,12 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        map<int,int> m;
-        for(int n: nums){
-            m[n]++;
+        unordered_map<int, int> m1;
+        for (int i = 0; i < nums.size(); i++) {
+            m1[nums[i]]++;
+            if (m1[nums[i]] > nums.size() / 2)
+                return nums[i];
         }
-        pair<int,int> max ;
-        for(const auto& [key,value]:m){
-            if(value > max.second) max = make_pair(key, value);
-        }
-        return max.first;
+        return 0;
     }
 };
